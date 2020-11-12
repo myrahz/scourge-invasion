@@ -1,4 +1,4 @@
-const tuning = 60;
+		const tuning = 60;
 
 const init = {
 	rare: 174062,
@@ -23,6 +23,10 @@ var rares = [
 			{
 				id: 183676,
 				name: "Hailstone Loop"
+			},
+			{
+				id: 183654,
+				name: "Etched Dragonbone Stompers"
 			},
 			{
 				id: 183200,
@@ -541,6 +545,10 @@ var rares = [
 				name: "Troll Gorer"
 			},
 			{
+				id: 183640,
+				name: "Leggings of Disreputable Charms"
+			},
+			{
 				id: 183200,
 				name: "Pitch Black Scourgestone"
 			},
@@ -563,6 +571,14 @@ var rares = [
 			{
 				id: 183681,
 				name: "Webrending Machete"
+			},
+						{
+				id: 183682,
+				name: "Cinch of the Servant"
+			},
+			{
+				id: 183683,
+				name: "Skittering Vestments"
 			},
 			{
 				id: 183200,
@@ -619,6 +635,14 @@ var rares = [
 			{
 				id: 183673,
 				name: "Nerubian Aegis Ring"
+			},
+			{
+				id: 183641,
+				name: "Shoulderpads of Corpal Rigidity"
+			},
+			{
+				id: 183624,
+				name: "Serrated Blade of Nadox"
 			},
 			{
 				id: 183200,
